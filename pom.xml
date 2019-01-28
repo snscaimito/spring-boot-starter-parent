@@ -17,6 +17,14 @@
 		<application.version.number>${project.version}</application.version.number>
 	</properties>
 
+	<scm>
+		<connection>scm:git:git@github.com:snscaimito/spring-boot-starter-parent.git</connection>
+		<url>scm:git:git@github.com:snscaimito/spring-boot-starter-parent.git</url>
+		<developerConnection>scm:git:git@github.com:snscaimito/spring-boot-starter-parent.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+
+
 	<distributionManagement>
 		<repository>
 			<id>caimito-release</id>
