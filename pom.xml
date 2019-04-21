@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>net.caimito</groupId>
 	<artifactId>spring-boot-starter-parent</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -19,7 +19,7 @@
 		<connection>scm:git:git@github.com:snscaimito/spring-boot-starter-parent.git</connection>
 		<url>scm:git:git@github.com:snscaimito/spring-boot-starter-parent.git</url>
 		<developerConnection>scm:git:git@github.com:snscaimito/spring-boot-starter-parent.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0.2</tag>
 	</scm>
 
 
